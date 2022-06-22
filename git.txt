@@ -1,0 +1,9 @@
+git init
+git config --global user.name'bhargavabittu'
+git congig --global user.mail'bhargavabittu4132@gmail.com'
+git status
+git add . or * or -A
+git status
+git commit -m 'program done'
+git remote origin link
+git push -u origin
